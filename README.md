@@ -2,7 +2,7 @@
 https://youtu.be/PSz1dHxtnCc
 ## Modern Dash Examples ##
 
-![Chevy malibu](./pics/chevymalibuDash.jpg)
+![Chevy malibu](/pics/chevymalibuDash.jpg)
 ![Kia](./pics/Stinger.jpg)
 ![Nissan](./pics/nissanimage.jpg)
 ### Pros ###
